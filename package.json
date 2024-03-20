@@ -1,0 +1,20 @@
+{
+  "name": "hoteltask11",
+  "version": "1.0.0",
+  "description": "getting familiar with node express by building hotel api",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "uche ali",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.0",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^8.2.2",
+    "nodemon": "^3.1.0"
+  }
+}
